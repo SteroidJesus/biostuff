@@ -9,3 +9,6 @@ adapter-cutter.sh
 get.py
 - downloads complete taxonomy of organism from given GI
 - uses entrez from biopython https://biopython.org/docs/1.75/api/Bio.Entrez.html?highlight=entrez#module-Bio.Entrez
+
+remove_duplicates.py
+- removes duplicate lines from lists (for long excel taxa tables...)
